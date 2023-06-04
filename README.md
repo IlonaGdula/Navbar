@@ -1,2 +1,2 @@
 # Navbar
-Navbar, carousel and cards activities
+Navbar, carousel, card and form activities
